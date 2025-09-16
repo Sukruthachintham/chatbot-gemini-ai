@@ -2,7 +2,7 @@
 // script.js
 
 // ! API Configuration
-const API_KEY = " AIzaSyDgL6quy4MeIfiNbkYfkwbxInAYcpSs7aY"; // ! Replace with your actual API key
+const API_KEY = " "; // ! Replace with your actual API key
 const API_URL = `https://generativelanguage.googleapis.com/v1/models/gemini-1.5-flash:generateContent?key=${API_KEY}`;
 
 // * DOM Elements
