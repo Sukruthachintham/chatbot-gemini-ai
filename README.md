@@ -53,8 +53,6 @@ Google Gemini API → AI responses
 
 📌 Future Enhancements
 
-Add voice input/output
-
 Save chat history
 
 Support for multiple Gemini models
